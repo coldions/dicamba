@@ -1,2 +1,5 @@
-# dicamba
-This repository is to support coldions data analysis and presentation for the dicamba project
+# workflow
+
+The intended use of the coldions workflow repository is as a part of a folder, notebook, and workflow structure that support researchers in carrying projects to completion.  The general concept is to support researchers in making better decisions, and help them stay on the critical path (or at least close to it), by intertwining "early project tasks" (experimental design, lab notebook documentation, and data collection) with "late project tasks" (data analysis, visualization, and presentation).  Data analysis, visualization, and presentation can be time consuming and a distraction to lab work when taken too far.  The hope is that this library will make these processes quick and efficient so that researchers get the benefits of the critical thinking and feedback that comes from presenting early and often, without getting bogged down in repetitive tasks.
+
+The respository contains libraries designed to work with the exported output from different instrument software (For example, Xcalibur from ThermoFisher and MassLynx from Waters).  
